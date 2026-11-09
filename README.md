@@ -10,3 +10,9 @@ This aims to be a helpful tool to make life easier when searching for new tracks
 </a>
 
 ## 🏁 [Enduro](https://github.com/BrinkleyPT/MXBTrackFinder/blob/main/MX%20Bikes%20Shop/Tracks/Enduro/README.md)
+
+<a href="https://github.com/BrinkleyPT/MXBTrackFinder/blob/main/MX%20Bikes%20Shop/Tracks/Enduro/README.md" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <img alt="CTRL + CLICK (opens link in a new tab)" title="CTRL + CLICK (opens link in a new tab)" src="https://github.com/BrinkleyPT/MXBTrackFinder/blob/main/MX%20Bikes%20Shop/Tracks/Enduro/Enduro.png" width="450" height="450">
+  </picture>
+</a>
